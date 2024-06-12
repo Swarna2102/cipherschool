@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-	#code 1
+	//code 1
 //	int i;
 //	int a[4];
 //	cout<<"give 5 integers as input"<<endl;
@@ -14,7 +14,7 @@ int main(){
 //		cout<<a[i]<<" ";
 //	}
 	
-	#reversing an array
+	//reversing an array
 	int i;
 	int a[10];
 	cout<<"give 10 integers as input"<<endl;
