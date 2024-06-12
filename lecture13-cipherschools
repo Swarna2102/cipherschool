@@ -1,0 +1,8 @@
+FUNCTIONS
+In this lecture ,functions was taught.
+why are functions are important?
+1.divide and conquer: construct a program from smaller pieces or components
+2.reuse:write once anywhere required in the program
+3.abstraction:hide internal details (library function)
+4.to improve the readability of code.
+5.reduces the size of the code ,duplicate set of statements are replaced by function calls.
