@@ -2,14 +2,14 @@
 using namespace std;
 int main(){
 int main(){
-	#1st code
+	//1st code
 //	float a;
 //	cin>>a;
 //	if(a>0.01){
 //		cout<<"the condition in if statement is correct";
 //	}
 	
-	#2nd code
+	//2nd code
 //	float a,b;
 //	cout<<"give 2 floating point numbers"<<endl;
 //	cin>>a>>b;
@@ -20,7 +20,7 @@ int main(){
 //		cout<<"the condition is false";
 //	}
 	
-	#3rd code
+	//3rd code
 //	int a,b,c,d;
 //	cout<<"give four integers as input:a,b,c,d"<<endl;
 //	cin>>a>>b>>c>>d;
@@ -34,7 +34,7 @@ int main(){
 //		cout<<"huhu"
 //	}
 //	
-	#4th code switch case
+	//4th code switch case
 	int a;
 	cout<<"enter a integer"<<endl;
 	cin>>a;
