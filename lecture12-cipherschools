@@ -1,0 +1,48 @@
+#include<iostream>
+using namespace std;
+int main(){
+	//1st code
+//	int password;
+//	cin>>password;
+//	if(password>999999){
+//		cout<<"the password does not meet the required conditions ,please write th password again";
+//		cin>>password;
+//	}
+//	cout<<"the user has now entered the correct password"<<endl;
+//	return 0;
+
+
+//do while loop
+//	int password;
+//	do{
+//		cin>>password;
+//	}
+//	while(password<9999999);
+
+//third code
+//	int i;
+//	for(i=0; ;i++){
+//		cout<<i;
+//		if(i>100){
+//			break;
+//		}
+//	}
+//	return 0;
+	
+	//4th code
+	
+	int count;
+	while(1){
+		cout<<" ";
+		count++;
+		if(count>100){
+			break;
+		}
+	}
+
+
+
+
+
+
+}
