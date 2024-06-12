@@ -1,0 +1,29 @@
+#include<iostream>
+using namespace std;
+int main(){
+	#code 1
+//	int i;
+//	int a[4];
+//	cout<<"give 5 integers as input"<<endl;
+//	for(i=0;i<5;i++){
+//		cin>>a[i];
+//		
+//	}
+//	cout<<"the given inputs are:"<<endl;
+//	for(i=0;i<5;i++){
+//		cout<<a[i]<<" ";
+//	}
+	
+	#reversing an array
+	int i;
+	int a[10];
+	cout<<"give 10 integers as input"<<endl;
+	for(i=0;i<10;i++){
+		cin>>a[i];
+		
+	}
+	for(i=9;i>=0;i--){
+		cout<<a[i]<<" ";
+	}
+
+}
