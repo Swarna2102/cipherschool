@@ -1,0 +1,27 @@
+#include<iostream>
+using namespace std;
+
+void PrintHi()
+{
+	cout<<"hi"<<endl;
+	return;
+}
+int sum(int a,int b){
+	int c;
+	c=a+b;
+	a=500;
+	return c;
+}
+int main()
+{
+	PrintHi();
+	int a,b;
+	int c;
+	a=4;
+	b=6;
+	c=75;
+	int d;
+	d=sum(a,b);
+	cout<<"the value of c is "<<c;
+	return 0;
+}
