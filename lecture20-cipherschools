@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main(){
+	long long int a;
+	int b;
+	float c;
+	
+	cout<<"the size of int b is : "<<sizeof(b)<<endl<<"the size of long long int  a is:"<<sizeof(a);
+	cout<<"the adress of int  b is : "<<&b<<endl<<"the adress of long long int  a is:"<<&a;
+	cout<<"the adress of c is: "<<&c;
+	
+	return 0;
+}
