@@ -30,5 +30,6 @@ void buildTree(Node* root){
 }
 int main(){
 	Node* root;
+	buildTree(root);
 	
 }
